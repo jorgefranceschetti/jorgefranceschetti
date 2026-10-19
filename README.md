@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Jorge Franceschetti 👋
 
-<!--
-**jorgefranceschetti/jorgefranceschetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise de Dados e TI Aplicados à Gestão**, em início de carreira
+na área de dados, com foco em BI e análise de negócio.
 
-Here are some ideas to get you started:
+## O que faço
+Transformo dados em decisões: limpeza e tratamento de dados, análise
+exploratória e dashboards interativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas
+Power BI · Power Query · Excel · Canva
+
+## Projetos
+- [Estratégia de Posicionamento da hCaptcha no Mercado Europeu](https://github.com/jorgefranceschetti/hcaptcha-posicionamento-europa):
+  dashboard em Power BI com tratamento de dados, segmentação por país, porte e
+  setor, e análise do perfil dos decisores.
+
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/jorgemarcello)
